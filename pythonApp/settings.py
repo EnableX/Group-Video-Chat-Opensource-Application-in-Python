@@ -126,6 +126,6 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
 )
 
-ENABLEX_API_URL = "https://api-vinod.vcloudx.com/v1"
+ENABLEX_API_URL = "https://api.enablex.io/v1"
 ENABLEX_APP_ID = ""
 ENABLEX_APP_KEY = ""
