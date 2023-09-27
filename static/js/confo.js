@@ -281,10 +281,10 @@ function videoMute() {
     var currentImgPath = elem.src.split("/")[elem.src.split("/").length - 1];
     if (currentImgPath === offImgName) {
         localStream.unmuteVideo(function (res) {
-            var streamId = localStream.getID();
-            var player = document.getElementById("stream" + streamId);
-            player.srcObject = localStream.stream;
-            player.play();
+            // var streamId = localStream.getID();
+            // var player = document.getElementById("stream" + streamId);
+            // player.srcObject = localStream.stream;
+            // player.play();
             elem.src = onImgPath;
             elem.title = "Mute video";
         });
