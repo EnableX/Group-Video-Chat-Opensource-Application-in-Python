@@ -1,10 +1,12 @@
-# Multi-Party RTC: A Sample Web App using Python (Django Framework) and EnableX Web Toolkit
+# Multi Party Video Call Application using Python (Django) and EnableX Video SDK for Web Browser
 
-The Sample Web App demonstrates the use of APIs for EnableX platform to develop basic Multi-Party RTC (Real Time Communication) Application. The main motivation behind this application is to demonstrate usage of APIs and allow developers to ramp up on app by hosting on their own devices instead of directly using servers.
+Experience a Sample Web App Showcasing EnableX Platform APIs for Building Multi-Party RTC Applications
 
-RTC Applications hosted on EnableX platform run natively on supported set of web browsers without any additional plugin downloads.
+Dive into an educational journey with this sample web application that showcases the prowess of EnableX platform APIs in crafting fundamental multi-party RTC (Real-Time Communication) applications. The primary objective of this application is to offer developers an immersive experience, allowing them to swiftly acquire app development skills by running it on their own devices instead of relying directly on servers.
 
-This basic Multi-Party RTC Application is generated using HTML, CSS, Bootstrap, JavaScript, jQuery, Python and EnxRtc (The EnableX Web Toolkit).
+Notably, RTC applications hosted on the EnableX platform inherently support a range of web browsers without necessitating any additional plugin downloads. 
+
+This essential multi-party RTC application is ingeniously designed using HTML, CSS, Bootstrap, JavaScript, jQuery, Python, and EnxRtc (The EnableX Web Toolkit), offering a comprehensive demonstration of the EnableX platform's capabilities for seamless real-time communication.
 
 > The details of the supported set of web browsers can be found here:
 > https://developer.enablex.io/video/browser-compatibility-of-enablex-video/
